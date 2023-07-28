@@ -9,3 +9,6 @@ I want to try to figure out the best points of entry and exit based on total ret
 Experiment with ML classifiers (Decision Tree, done) as well as the baseline EMA and SMA
 
 Backtest with PnL
+
+# Next steps:
+Developing an algorithm to figure out the greatest point of entry and exit that give me the highest reward.
